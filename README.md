@@ -2,25 +2,11 @@
 
 ## Overview and Origin
 
-* Name of company
+The company I researched is called Deepgram. They are a voice AI platform that provides APIs to translate audio to text. The company was founded in 2015 by Scott Stephenson, Noah Shutty, Adam Sypniewski. They are currently on their Series B funding where they raised $72 million dollars. Overall, they have raised $86 million dollars.
 
-Deepgram
+The founders were particle physicists working in underground labs in china two miles underground to detect dark matter. They were working to build a dark matter detector underground to provide a very quiet environment to conduct their experiments. The idea was to have nothing happen inside the isolated environment, and if something happens, then they would identify that as dark matter. The experiment is sensitive and they work with waveforms that are similar to audo waveforms. It is similar to doing real time recording of many conversations at one time. They had to do machine learning in real time on the wave forms that look like audio wave forms, and figure out what is happening in the detector in real time to make decisions about it.
 
-* When was the company incorporated?
-
-The company was founded in 2015
-
-* Who are the founders of the company?
-
-Scott Stephenson, Noah Shutty, Adam Sypniewski
-
-* How did the idea for the company (or project) come about?
-
-The founders were particle physicists working in underground labs in china two miles underground to detect dark matter. They were working to build a dark matter detector underground to provide a very quiet environment to conduct their experiments. The idea was to have nothing happen inside the isolated environment, and if something happens, then they would identify that as dark matter. The experiment is sensitive and they work with waveforms that are similar to audo waveforms. It is similar to doing real time recording of many conversations at one time. They had to do machine learning in real time on the wave forms that look like audio wave forms, and figure out what is happening in the detector in real time to make decisions about it. That kind of thinking and technology led to deepgram. They ended up making little devices to record audio all day and ended up with a thousand hours of audio. They wanted to find interesting moments from the audio, and they went and looked for a product that could do that, but they couldn't find it. They tried taking the audio to Google and Microsoft to talk to their speech experts to understand what is in the audio, and they were told that it would be too hard to use deep learning to do that with languages and it wouldn't work. After that they decided to start the company
-
-* How is the company funded? How much funding have they received?
-
-They are currently on their Series B funding where they raised $72 million dollars. Overall, they have raised $86 million dollars.
+That kind of thinking and technology led to deepgram. They ended up making little devices to record audio all day and ended up with a thousand hours of audio. They wanted to find interesting moments from the audio, and they went and looked for a product that could do that, but they couldn't find it. They tried taking the audio to Google and Microsoft to talk to their speech experts to understand what is in the audio, and they were told that it would be too hard to use deep learning to do that with languages and it wouldn't work. After that they decided to start the company.
 
 ## Business Activities
 
@@ -38,7 +24,13 @@ They also target software developers by offering an API that is easy to integrat
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+The biggest competitor to Deepgram is OpenAI Whisper. Deepgram's solution is 36% more accurate, 5x faster, and costs less than OpenAI Whisper. What sets Deepgram apart from OpenAI Whisper is their deep learning approach which utilizes neural networks optimized for specific audio environments. They also offer models for different industries and use cases. Deepgram also allows users to train models on their own datasets, while Whisper is more generalized and does not offer the same level of customization on private data. Both companies offer a developer API which makes it easy for their software to be integrated into custom applications.
+
+* Which technologies are they currently using, and how are they implementing them?
+
+Deepgram uses end-to-end deep neural network learning that is designed for speech recognition. This is where a neural network is trained to perform a task directly from raw data without the need for manual intervention.
+
+They also use spectrogram-based processing, which is a method of analyzing signals in audio that involves creating a visual representation of the signals's frequency over time.
 
 ## Landscape
 
@@ -82,3 +74,10 @@ Funding and market problem to solve
 Market growth
 * https://www.grandviewresearch.com/industry-analysis/voice-recognition-market
 * https://www.imarcgroup.com/voice-speech-recognition-market
+
+Deepgram vs OpenAI Whisper
+* https://deepgram.com/compare/openai-vs-deepgram-alternative
+
+Technologies used by deepgram
+* https://deepgram.com/ai-glossary/end-to-end-learning
+* https://deepgram.com/ai-glossary/speech-to-text-models
