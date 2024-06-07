@@ -10,11 +10,7 @@ That kind of thinking and technology led to deepgram. They ended up making littl
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
-
 Deepgram is trying to make it easy to accurately transcribe and analyze audio data. Their main offering  is transcripting audio text because human generated transcripts are slow and expensive, and legacy solutions have their limitations as to what they can understand from voice data. Their technology offers speech recognition, sentiment analysis, speaker labeling, topic detection, and translation to other languages. This provides their customers to gain deep insight into whatever audio data they have.
-
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
 The market size is estimated at $20 billion dollars and it is anticipated to grow 14.6% until 2030. This growth is expected because of the current adoption of speech recognition technology in various markets.
 
@@ -22,41 +18,31 @@ Deepgram is targeting enterprises that need speech recognition and audio analysi
 
 They also target software developers by offering an API that is easy to integrate into different kinds of projects for different programming languages. The API provides developers with the tools to add speech recognition and audio analysis into their applications.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
 The biggest competitor to Deepgram is OpenAI Whisper. Deepgram's solution is 36% more accurate, 5x faster, and costs less than OpenAI Whisper. What sets Deepgram apart from OpenAI Whisper is their deep learning approach which utilizes neural networks optimized for specific audio environments. They also offer models for different industries and use cases. Deepgram also allows users to train models on their own datasets, while Whisper is more generalized and does not offer the same level of customization on private data. Both companies offer a developer API which makes it easy for their software to be integrated into custom applications.
 
-* Which technologies are they currently using, and how are they implementing them?
+Deepgram uses end-to-end deep neural network learning that is designed for speech recognition. This is where a neural network is trained to perform a task directly from raw data without the need for manual tuning of parameters. This allows models to uncover the patterns that it determines to be important, instead of a preconceived idea of what we think is important to look for in data. Their models are set up to process data in this way, so all audio transcripts that are generated are run through their deep learning models to create a transcript. This enables their models to learn on their own based on the data that has been
 
-Deepgram uses end-to-end deep neural network learning that is designed for speech recognition. This is where a neural network is trained to perform a task directly from raw data without the need for manual intervention.
-
-They also use spectrogram-based processing, which is a method of analyzing signals in audio that involves creating a visual representation of the signals's frequency over time.
+They also use spectrogram-based processing, which is a method of analyzing signals in audio that involves creating a visual representation of the signals's frequency over time. Deepgram converts these audio signals into spectrograms and they serve as inputs into the neural networks. Spectrograms help the AI models to distinguish between similar sounds by revealing small differences in frequency and duration of audio. This helps the AI models learn even though human speech is often unpredictable. Because the AI is able to learn from vast amounts of data and recognize these small differences in frequencies, they can build accurate models to accurately translate speech to text.
 
 ## Landscape
 
-* What field is the company in?
+Deepgram works in the field of Automatic Speech Recognition. This field involves converting audio into through deep learning, machine learning, and natural language processing.
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+Traditionally this field processed audio through Speech To Text Technology. This technology uses algorithms to process audio signals and convert them into text. These algorithms are good at converting speech to text, but they don't distinguish between who says what. These algorithms also struggled with the unpredictable nature of human speech. AI has advanced this field through the technology already mentioned, deep learning and spectrogram based processing. Because of companies like Deepgram and OpenAI Whisper, AI can replace the old way of converting speech to text, and add features that were not capable before.
 
-* What are the other major companies in this field?
+The main competitors are OpenAI Whisper, Otter AI, Verbit, Speechmatics and Cogito. These companies show how the diversity of the Automatic Speech Recognition field, and the different business use cases each company aims to provide solutions for. Deepgram sets itself apart from these companies by their deep learning models, and their developer API that allows other software developers to integrate with their systems.
 
 ## Results
 
-* What has been the business impact of this company so far?
+The business impact of Deepgram so far has been the wide adoption of Deepgram across different industries because of its ability to provide accurate transcripts and speech recognition services. A lot of their customers are in healthcare, finance, retail, and technology, which has already been mentioned.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
+The success of the product is measured by its adoption. Companies are using deepgram because of the low cost, the high accuracy, the high speed, and easy integration into new applications. Companies are also looking to adopt the latest features in ASR technology such as identifying different speakers, identifying different accents and still translating correctly. Because Deepgram has the most cutting edge technology to provide the features customers are looking for, they are outperforming their competitors in their product offering. This has led to high adoption across multiple industries, and it has led to them continuing to raise large amounts of money as they continue to innovate their product and gain new customers.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+There are a few ways that this company could innovate and provide unique services. One of them would be to develop a real time translation service, so that words spoken in a foreign language could immediately be translated into text into another language.
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+This would benefit the company because it would expand who they can market too by building on their existing technology. This would enable easy communication in international contexts, and could be used by international businesses, governments, and customer service calls. This service would continue to use the same technologies Deepgram already uses such as deep learning, spectrogram-based processing, machine learning, automatic speech recognition, and natural language processors. These technologies are appropriate because this is what is already being used by Deepgram for their speech to text product. By innovating on their models they can provide a solution that can translate from one language to another.
 
 ## Resources
 
@@ -81,3 +67,10 @@ Deepgram vs OpenAI Whisper
 Technologies used by deepgram
 * https://deepgram.com/ai-glossary/end-to-end-learning
 * https://deepgram.com/ai-glossary/speech-to-text-models
+* https://deepgram.com/learn/what-is-automatic-speech-recognition-past-present-and-future-ebook#blog-detail-hero
+
+Competitors
+* https://otter.ai/
+* https://verbit.ai/
+* https://www.speechmatics.com/
+* https://cogitocorp.com/
